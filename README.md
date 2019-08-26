@@ -1,5 +1,5 @@
 # Movie-Review-Analysis-using-RNN-Recurrent-Neural-Network
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROCmOxgZQ17jR_2_c-gnbWd_oWMwN4IydCuJnUA-KzqdNUxBgjfw)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoyCaxUVpN9PmVDLq6I26lGT5WPN5cNaQDFqs9Xe294dkEn3lC)
 - Finding the sentiment of a review
   - Negative 
   - Positive
