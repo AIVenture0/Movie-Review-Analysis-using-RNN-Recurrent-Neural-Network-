@@ -16,7 +16,7 @@ data science Competition...
 <img src="https://www.justicebrd.com/static/images/fast.png" width='258px' height='258px'>
 </p>
 
-```Quick Start: [View](https://nbviewer.jupyter.org/github/AIVenture0/Movie-Review-Analysis-using-RNN-Recurrent-Neural-Network-/blob/master/IMDB_Review_Analysis_Using_DeepLearning_%28RNN_Model%29.ipynb) a static version of the notebook in the comfort of your own web browser```
+```Quick Start```: [View](https://nbviewer.jupyter.org/github/AIVenture0/Movie-Review-Analysis-using-RNN-Recurrent-Neural-Network-/blob/master/IMDB_Review_Analysis_Using_DeepLearning_%28RNN_Model%29.ipynb) a static version of the notebook in the comfort of your own web browser
 
 
 ## Result
