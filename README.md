@@ -14,3 +14,18 @@ data science Competition...
 </p>
 
 __Quick Start__: [View](https://nbviewer.jupyter.org/github/AIVenture0/Movie-Review-Analysis-using-RNN-Recurrent-Neural-Network-/blob/master/IMDB_Review_Analysis_Using_DeepLearning_%28RNN_Model%29.ipynb) a static version of the notebook in the comfort of your own web browser
+
+
+## Result
+The output of the code is to predict the sentiment of review (0-__negative__,1-__positive__).
+
+## Author
+<b>Vikram singh</b>
+
+Get in tuch : 
+
+- Twitter: https://twitter.com/vikramvinay1
+- Linkdin: https://www.linkedin.com/in/vikram-singh-ai-venture/
+- Facebook: https://www.facebook.com/AIVentureO/https://www.quora.com/profile/Vinay-Vikram-8
+- Quora: https://www.quora.com/profile/Vinay-Vikram-8
+
