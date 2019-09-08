@@ -1,5 +1,7 @@
 # Movie-Review-Analysis-using-RNN-Recurrent-Neural-Network
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoyCaxUVpN9PmVDLq6I26lGT5WPN5cNaQDFqs9Xe294dkEn3lC)
+<center>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/IMDB_Logo_2016.svg"/>
+</center>
 - Finding the sentiment of a review
   - __Negative__ 
   - __Positive__
