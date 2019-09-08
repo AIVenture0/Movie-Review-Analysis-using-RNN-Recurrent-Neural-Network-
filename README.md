@@ -1,8 +1,8 @@
 # Movie-Review-Analysis-using-RNN-Recurrent-Neural-Network
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoyCaxUVpN9PmVDLq6I26lGT5WPN5cNaQDFqs9Xe294dkEn3lC)
 - Finding the sentiment of a review
-  - Negative 
-  - Positive
+  - __Negative__ 
+  - __Positive__
 ## DataSet
 To analyse the movie review data. First thing we need is dataset which is taken from Kaggle 
 data science Competition...
